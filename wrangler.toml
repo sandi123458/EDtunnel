@@ -1,27 +1,27 @@
-name = "dojurig"
+name = "amazon"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [[routes]]
-pattern = "dojurig.elbarputra.my.id"
+pattern = "amazon.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "npca.netflix.com.dojurig.elbarputra.my.id"
+pattern = "npca.netflix.com.amazon.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.dojurig.elbarputra.my.id"
+pattern = "quiz.int.vidio.com.amazon.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.dojurig.elbarputra.my.id"
+pattern = "support.zoom.us.amazon.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.dojurig.elbarputra.my.id"
+pattern = "ava.game.naver.com.amazon.elbarputra.my.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "128.199.171.100:8443"
+PROXYIP = "52.74.101.26:443"
 UUID = "8025fa8a-3ecd-4984-93a6-9aa0f0b01378"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
