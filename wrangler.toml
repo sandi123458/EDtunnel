@@ -1,8 +1,24 @@
-name = "test1"
+name = "dojurig"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
+
+[[routes]]
+pattern = "dojurig.elbarputra.my.id"
+custom_domain = true
+[[routes]]
+pattern = "npca.netflix.com.dojurig.elbarputra.my.id"
+custom_domain = true
+[[routes]]
+pattern = "quiz.int.vidio.com.dojurig.elbarputra.my.id"
+custom_domain = true
+[[routes]]
+pattern = "support.zoom.us.dojurig.elbarputra.my.id"
+custom_domain = true
+[[routes]]
+pattern = "ava.game.naver.com.dojurig.elbarputra.my.id"
+custom_domain = true
 
 [vars]
 PROXYIP = "128.199.171.100:8443"
