@@ -1,25 +1,8 @@
-name = "dojurig"
+name = "test1"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
-
-[[routes]]
-pattern = "dojurig.sandiasun.biz.id"
-custom_domain = true
-[[routes]]
-pattern = "npca.netflix.com.dojurig.sandiasun.biz.id"
-custom_domain = true
-[[routes]]
-pattern = "quiz.int.vidio.com.dojurig.sandiasun.biz.id"
-custom_domain = true
-[[routes]]
-pattern = "support.zoom.us.dojurig.sandiasun.biz.id"
-custom_domain = true
-[[routes]]
-pattern = "ava.game.naver.com.dojurig.sandiasun.biz.id"
-custom_domain = true
-
 
 [vars]
 PROXYIP = "128.199.171.100:8443"
