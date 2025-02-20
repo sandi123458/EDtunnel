@@ -21,7 +21,7 @@ pattern = "ava.game.naver.com.usgugel.elbarputra.my.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "35.212.236.253:8888"
+PROXYIP = "34.83.245.149:443"
 UUID = "8025fa8a-3ecd-4984-93a6-9aa0f0b01378"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
