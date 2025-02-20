@@ -1,27 +1,27 @@
-name = "idgugel"
+name = "usgugel"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [[routes]]
-pattern = "idgugel.elbarputra.my.id"
+pattern = "usgugel.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "npca.netflix.com.idgugel.elbarputra.my.id"
+pattern = "npca.netflix.com.usgugel.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.idgugel.elbarputra.my.id"
+pattern = "quiz.int.vidio.com.usgugel.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.idgugel.elbarputra.my.id"
+pattern = "support.zoom.us.usgugel.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.idgugel.elbarputra.my.id"
+pattern = "ava.game.naver.com.usgugel.elbarputra.my.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "35.219.15.90:443"
+PROXYIP = "35.212.236.253:8888"
 UUID = "8025fa8a-3ecd-4984-93a6-9aa0f0b01378"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
