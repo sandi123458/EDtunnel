@@ -5,23 +5,26 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [[routes]]
-pattern = "idherza.elbarputra.my.id"
+pattern = "rumahweb.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "npca.netflix.com.idherza.elbarputra.my.id"
+pattern = "npca.netflix.com.rumahweb.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.idherza.elbarputra.my.id"
+pattern = "quiz.int.vidio.com.rumahweb.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.idherza.elbarputra.my.id"
+pattern = "support.zoom.us.rumahweb.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.idherza.elbarputra.my.id"
+pattern = "ava.game.naver.com.rumahweb.elbarputra.my.id"
+custom_domain = true
+[[routes]]
+pattern = "blog.ruangguru.com.rumahweb.elbarputra.my.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "103.168.146.169:20132"
+PROXYIP = "203.194.112.119:8443"
 UUID = "8025fa8a-3ecd-4984-93a6-9aa0f0b01378"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
